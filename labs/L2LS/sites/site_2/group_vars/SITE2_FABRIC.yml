@@ -61,7 +61,7 @@ leaf:
         - name: s2-leaf3
           id: 3
           mgmt_ip: 192.168.0.24/24
-          uplink_switch_interfaces: [ Ethernet4, Ethernet4 ]
+          uplgit add .ink_switch_interfaces: [ Ethernet4, Ethernet4 ]
         - name: s2-leaf4
           id: 4
           mgmt_ip: 192.168.0.25/24
